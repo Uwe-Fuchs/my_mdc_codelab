@@ -4,6 +4,9 @@
 /dist
 /tmp
 /out-tsc
+bundle.css
+bundle.js
+style-bundle.js
 
 # dependencies
 /node_modules
